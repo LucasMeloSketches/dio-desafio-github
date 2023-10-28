@@ -1,6 +1,6 @@
 # Projetos
 
-##Os projetos que serão desenvolvidos durante o curso são:
+## Os projetos que serão desenvolvidos durante o curso são:
 
 1 - Contribuindo em um Projeto Open Source no GitHub
 
